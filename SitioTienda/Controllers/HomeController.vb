@@ -1,7 +1,7 @@
 ﻿Imports System.Web.Mvc
 
 Namespace Controllers
-    Public Class IndexController
+    Public Class HomeController
         Inherits Controller
 
         ' GET: Index
