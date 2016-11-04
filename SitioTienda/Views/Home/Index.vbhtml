@@ -7,16 +7,16 @@ End Code
         <div class="col-md-6 col-md">
             <div class="col-1">
                 <a href="single.html" class="b-link-stroke b-animate-go  thickbox">
-                    <img src="~/images/pi.jpg" class="img-responsive" alt="" /><div class="b-wrapper1 long-img"><p class="b-animate b-from-right    b-delay03 ">Lorem ipsum</p><label class="b-animate b-from-right    b-delay03 "></label><h3 class="b-animate b-from-left    b-delay03 ">Trendy</h3></div>
+                    <img src="~/images/pi.jpg" class="img-responsive" alt="" /><div class="b-wrapper1 long-img"><p class="b-animate b-from-right    b-delay03 ">Blusas</p><label class="b-animate b-from-right    b-delay03 "></label><h3 class="b-animate b-from-left    b-delay03 ">Más Buscadas</h3></div>
                 </a>
 
                 <!---<a href="single.html"><img src="images/pi.jpg" class="img-responsive" alt=""></a>-->
             </div>
             <div class="col-2">
-                <span>Hot Deal</span>
-                <h2><a href="single.html">Luxurious &amp; Trendy</a></h2>
-                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years</p>
-                <a href="single.html" class="buy-now">Buy Now</a>
+                <span>Mejores Ofertas</span>
+                <h2><a href="single.html">Cómoda &amp; Moderna</a></h2>
+                <p>Ropa cómoda y moderna para cada día</p>
+                <a href="single.html" class="buy-now">Comprar Ahora</a>
             </div>
         </div>
         <div class="col-md-6 col-md1">
@@ -24,9 +24,9 @@ End Code
                 <a href="single.html">
                     <img src="~/images/pi1.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
-                        <p>Lorem Ipsum</p>
+                        <p>Más Buscado</p>
                         <label></label>
-                        <h5>For Men</h5>
+                        <h5>Para Hombre</h5>
                     </div>
                 </a>
             </div>
@@ -34,9 +34,9 @@ End Code
                 <a href="single.html">
                     <img src="~/images/pi2.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
-                        <p>Lorem Ipsum</p>
+                        <p>Lo Más Nuevo</p>
                         <label></label>
-                        <h5>For Kids</h5>
+                        <h5>Para Niños</h5>
                     </div>
                 </a>
             </div>
@@ -44,9 +44,9 @@ End Code
                 <a href="single.html">
                     <img src="~/images/pi3.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
-                        <p>Lorem Ipsum</p>
+                        <p>Lo Más Vendido</p>
                         <label></label>
-                        <h5>For Women</h5>
+                        <h5>Para Mujeres</h5>
                     </div>
                 </a>
             </div>
@@ -55,11 +55,11 @@ End Code
     </div>
     <!--products-->
     <div class="content-mid">
-        <h3>Trending Items</h3>
+        <h3>Productos más Vistos</h3>
         <label class="line"></label>
         <div class="mid-popular">
             <div class="col-md-3 item-grid simpleCart_shelfItem">
-                <div class=" mid-pop">
+                <div class="mid-pop">
                     <div class="pro-img">
                         <img src="~/images/pc.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
@@ -70,8 +70,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Women</span>
-                                <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                <span>Mujer</span>
+                                <h6><a href="single.html">Blusa Formal</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -102,8 +102,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Women</span>
-                                <h6><a href="single.html">At vero eos</a></h6>
+                                <span>Mujer</span>
+                                <h6><a href="single.html">Camiseta</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -134,8 +134,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Men</span>
-                                <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                <span>Hombre</span>
+                                <h6><a href="single.html">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -166,8 +166,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Women</span>
-                                <h6><a href="single.html">On the other</a></h6>
+                                <span>Mujer</span>
+                                <h6><a href="single.html">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -201,8 +201,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Men</span>
-                                <h6><a href="single.html">On the other</a></h6>
+                                <span>Hombre</span>
+                                <h6><a href="single.html">Camiseta</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -233,8 +233,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Men</span>
-                                <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                <span>Hombre</span>
+                                <h6><a href="single.html">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -265,8 +265,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Women</span>
-                                <h6><a href="single.html">At vero eos</a></h6>
+                                <span>Mujer</span>
+                                <h6><a href="single.html">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -297,8 +297,8 @@ End Code
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
-                                <span>Men</span>
-                                <h6><a href="single.html">Sed ut perspiciati</a></h6>
+                                <span>Hombre</span>
+                                <h6><a href="single.html">Camisa</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>

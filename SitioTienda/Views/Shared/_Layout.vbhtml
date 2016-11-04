@@ -14,9 +14,9 @@
     <!--theme-style-->
     <link href="~/Content/style4.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
-    <script src="js/jquery.min.js"></script>
+    <script src="~/Scripts/jquery.min.js"></script>
     <!--- start-rate---->
-    <script src="js/jstarbox.js"></script>
+    <script src="~/Scripts/jstarbox.js"></script>
     <link rel="stylesheet" href="~/Content/jstarbox.css" type="text/css" media="screen" charset="utf-8" />
     <script type="text/javascript">
 			jQuery(function() {
@@ -56,9 +56,9 @@
             <div class="container">
                 <div class="col-sm-5 col-md-offset-2  header-login">
                     <ul>
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="register.html">Register</a></li>
-                        <li><a href="checkout.html">Checkout</a></li>
+                        <li><a href="login.html">Ingresar</a></li>
+                        <li><a href="register.html">Registrarse</a></li>
+                        <li><a href="checkout.html">Ordenar</a></li>
                     </ul>
                 </div>
 
@@ -96,47 +96,44 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                             <ul class="nav navbar-nav nav_1">
-                                <li><a class="color" href="index.html">Home</a></li>
+                                <li><a class="color" href="index.html">Inicio</a></li>
 
                                 <li class="dropdown mega-dropdown active">
-                                    <a class="color1" href="#" class="dropdown-toggle" data-toggle="dropdown">Women<span class="caret"></span></a>
+                                    <a class="color1" href="#" class="dropdown-toggle" data-toggle="dropdown">Mujer<span class="caret"></span></a>
                                     <div class="dropdown-menu ">
                                         <div class="menu-top">
                                             <div class="col1">
                                                 <div class="h_nav">
-                                                    <h4>Submenu1</h4>
+                                                    <h4>Casual</h4>
                                                     <ul>
-                                                        <li><a href="product.html">Accessories</a></li>
-                                                        <li><a href="product.html">Bags</a></li>
-                                                        <li><a href="product.html">Caps & Hats</a></li>
-                                                        <li><a href="product.html">Hoodies & Sweatshirts</a></li>
-
+                                                        <li><a href="product.html">Blusas</a></li>
+                                                        <li><a href="product.html">Pantalones</a></li>
+                                                        <li><a href="product.html">Jackets y Abrigos</a></li>
+                                                        <li><a href="product.html">Accesorios</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="col1">
                                                 <div class="h_nav">
-                                                    <h4>Submenu2</h4>
+                                                    <h4>Deportiva</h4>
                                                     <ul>
-                                                        <li><a href="product.html">Jackets & Coats</a></li>
-                                                        <li><a href="product.html">Jeans</a></li>
-                                                        <li><a href="product.html">Jewellery</a></li>
-                                                        <li><a href="product.html">Jumpers & Cardigans</a></li>
-                                                        <li><a href="product.html">Leather Jackets</a></li>
-                                                        <li><a href="product.html">Long Sleeve T-Shirts</a></li>
+                                                        <li><a href="product.html">Sudaderas</a></li>
+                                                        <li><a href="product.html">Licras</a></li>
+                                                        <li><a href="product.html">Camisetas</a></li>
+                                                        <li><a href="product.html">Accesorios</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="col1">
                                                 <div class="h_nav">
-                                                    <h4>Submenu3</h4>
+                                                    <h4>Infantil</h4>
                                                     <ul>
-                                                        <li><a href="product.html">Shirts</a></li>
-                                                        <li><a href="product.html">Shoes, Boots & Trainers</a></li>
-                                                        <li><a href="product.html">Sunglasses</a></li>
-                                                        <li><a href="product.html">Sweatpants</a></li>
-                                                        <li><a href="product.html">Swimwear</a></li>
-                                                        <li><a href="product.html">Trousers & Chinos</a></li>
+                                                        <li><a href="product.html">Camisetas</a></li>
+                                                        <li><a href="product.html">Pantalones</a></li>
+                                                        <li><a href="product.html">Shorts</a></li>
+                                                        <li><a href="product.html">Abrigos</a></li>
+                                                        <li><a href="product.html">Bebé</a></li>
+                                                        <li><a href="product.html">Accesorios</a></li>
 
                                                     </ul>
 
@@ -144,26 +141,21 @@
                                             </div>
                                             <div class="col1">
                                                 <div class="h_nav">
-                                                    <h4>Submenu4</h4>
+                                                    <h4>A la Medida</h4>
                                                     <ul>
-                                                        <li><a href="product.html">T-Shirts</a></li>
-                                                        <li><a href="product.html">Underwear & Socks</a></li>
-                                                        <li><a href="product.html">Vests</a></li>
-                                                        <li><a href="product.html">Jackets & Coats</a></li>
-                                                        <li><a href="product.html">Jeans</a></li>
-                                                        <li><a href="product.html">Jewellery</a></li>
+                                                        <li><a href="product.html">Solicitud</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="col1 col5">
-                                                <img src="images/me.png" class="img-responsive" alt="">
+                                                <img src="~/images/me.png" class="img-responsive" alt="">
                                             </div>
                                             <div class="clearfix"></div>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="dropdown mega-dropdown active">
-                                    <a class="color2" href="#" class="dropdown-toggle" data-toggle="dropdown">Men<span class="caret"></span></a>
+                                    <a class="color2" href="#" class="dropdown-toggle" data-toggle="dropdown">Hombre<span class="caret"></span></a>
                                     <div class="dropdown-menu mega-dropdown-menu">
                                         <div class="menu-top">
                                             <div class="col1">
@@ -227,10 +219,9 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li><a class="color3" href="product.html">Sale</a></li>
-                                <li><a class="color4" href="404.html">About</a></li>
-                                <li><a class="color5" href="typo.html">Short Codes</a></li>
-                                <li><a class="color6" href="contact.html">Contact</a></li>
+                                <li><a class="color3" href="product.html">Promociones</a></li>
+                                <li><a class="color4" href="404.html">Nosotros</a></li>
+                                <li><a class="color6" href="contact.html">Contacto</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
 
@@ -254,7 +245,7 @@
                                 <img src="~/images/cart.png" alt="" />
                             </h3>
                         </a>
-                        <p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
+                        <p><a href="javascript:;" class="simpleCart_empty">Carrito vacío</a></p>
 
                     </div>
                     <div class="clearfix"> </div>
@@ -262,15 +253,15 @@
                     <!----->
                     <!---pop-up-box---->
                     <link href="~/Content/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
-                    <script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+                    <script src="~/Scripts/jquery.magnific-popup.js" type="text/javascript"></script>
                     <!---//pop-up-box---->
                     <div id="small-dialog" class="mfp-hide">
                         <div class="search-top">
                             <div class="login-search">
                                 <input type="submit" value="">
-                                <input type="text" value="Search.." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search..';}">
+                                <input type="text" value="Buscar.." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Buscar..';}">
                             </div>
-                            <p>Shopin</p>
+                            <p>Mi Tienda</p>
                         </div>
                     </div>
                     <script>
@@ -300,22 +291,22 @@
         <div class="container">
             <section class="rw-wrapper">
                 <h1 class="rw-sentence">
-                    <span>Fashion &amp; Beauty</span>
+                    <span>Moda &amp; Belleza</span>
                     <div class="rw-words rw-words-1">
-                        <span>Beautiful Designs</span>
-                        <span>Sed ut perspiciatis</span>
-                        <span> Totam rem aperiam</span>
-                        <span>Nemo enim ipsam</span>
+                        <span>Diseños Únicos</span>
+                        <span>Creamos Estilo</span>
+                        <span>A tu Gusto</span>
+                        @*<span>Nemo enim ipsam</span>
                         <span>Temporibus autem</span>
-                        <span>intelligent systems</span>
+                        <span>intelligent systems</span>*@
                     </div>
                     <div class="rw-words rw-words-2">
-                        <span>We denounce with right</span>
-                        <span>But in certain circum</span>
-                        <span>Sed ut perspiciatis unde</span>
+                        <span>Nuestra Ropa...</span>
+                        <span>... Tu Estilo</span>
+                        @*<span>Sed ut perspiciatis unde</span>
                         <span>There are many variation</span>
                         <span>The generated Lorem Ipsum</span>
-                        <span>Excepteur sint occaecat</span>
+                        <span>Excepteur sint occaecat</span>*@
                     </div>
                 </h1>
             </section>
@@ -332,42 +323,40 @@
             <div class="container">
                 <div class="col-md-3 footer-middle-in">
                     <a href="index.html"><img src="~/images/log.png" alt=""></a>
-                    <p>Suspendisse sed accumsan risus. Curabitur rhoncus, elit vel tincidunt elementum, nunc urna tristique nisi, in interdum libero magna tristique ante. adipiscing varius. Vestibulum dolor lorem.</p>
+                    <p>Creamos moda a tu estilo</p>
                 </div>
 
                 <div class="col-md-3 footer-middle-in">
-                    <h6>Information</h6>
+                    <h6>Información</h6>
                     <ul class=" in">
-                        <li><a href="404.html">About</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                        <li><a href="#">Returns</a></li>
-                        <li><a href="contact.html">Site Map</a></li>
+                        <li><a href="404.html">Nosotros</a></li>
+                        <li><a href="contact.html">Contacto</a></li>
+                        <li><a href="#">Devoluciones</a></li>
+                        <li><a href="contact.html">Mapa del Sitio</a></li>
                     </ul>
                     <ul class="in in1">
-                        <li><a href="#">Order History</a></li>
-                        <li><a href="wishlist.html">Wish List</a></li>
-                        <li><a href="login.html">Login</a></li>
+                        <li><a href="#">Mis ördenes</a></li>
+                        <li><a href="wishlist.html">Lista de Deseos</a></li>
+                        <li><a href="login.html">Ingresar</a></li>
                     </ul>
                     <div class="clearfix"></div>
                 </div>
                 <div class="col-md-3 footer-middle-in">
-                    <h6>Tags</h6>
+                    <h6>Etiquetas</h6>
                     <ul class="tag-in">
-                        <li><a href="#">Lorem</a></li>
-                        <li><a href="#">Sed</a></li>
-                        <li><a href="#">Ipsum</a></li>
-                        <li><a href="#">Contrary</a></li>
-                        <li><a href="#">Chunk</a></li>
-                        <li><a href="#">Amet</a></li>
-                        <li><a href="#">Omnis</a></li>
+                        <li><a href="#">Ropa</a></li>
+                        <li><a href="#">Moda</a></li>
+                        <li><a href="#">Tshirt</a></li>
+                        <li><a href="#">Shorts</a></li>
+                        <li><a href="#">Accesorios</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 footer-middle-in">
-                    <h6>Newsletter</h6>
-                    <span>Sign up for News Letter</span>
+                    <h6>Boletin</h6>
+                    <span>Subscribase para recibir novedades</span>
                     <form>
-                        <input type="text" value="Enter your E-mail" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Enter your E-mail';}">
-                        <input type="submit" value="Subscribe">
+                        <input type="text" value="Ingrese su e-mail" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='Ingrese su E-Mail';}">
+                        <input type="submit" value="Subscribirme">
                     </form>
                 </div>
                 <div class="clearfix"> </div>
@@ -380,18 +369,18 @@
                     <li><a href="#"><img src="~/images/f2.png" class="img-responsive" alt=""></a></li>
                     <li><a href="#"><img src="~/images/f3.png" class="img-responsive" alt=""></a></li>
                 </ul>
-                <p class="footer-class">&copy; 2016 Shopin. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+                <p class="footer-class">&copy; 2016 Mi Tienda. Todos los derechos reservado | Diseño por  <a href="http://w3layouts.com/" target="_blank">MI tienda</a> </p>
                 <div class="clearfix"> </div>
             </div>
         </div>
     </div>
     <!--//footer-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/simpleCart.min.js"> </script>
+    <script src="~/Scripts/simpleCart.min.js"> </script>
     <!-- slide -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
     <!--light-box-files -->
-    <script src="js/jquery.chocolat.js"></script>
+    <script src="~/Scripts/jquery.chocolat.js"></script>
     <link rel="stylesheet" href="~/Content/chocolat.css" type="text/css" media="screen" charset="utf-8">
     <!--light-box-files -->
     <script type="text/javascript" charset="utf-8">

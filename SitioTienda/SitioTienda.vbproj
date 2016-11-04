@@ -166,13 +166,18 @@
     <Content Include="images\si2.jpg" />
     <Content Include="images\tick.png" />
     <Content Include="images\tick1.png" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
     <None Include="bundleconfig.json" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.10.2.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.js" />
-    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\classie.js" />
+    <Content Include="Scripts\imagezoom.js" />
+    <Content Include="Scripts\jquery.chocolat.js" />
+    <Content Include="Scripts\jquery.flexslider.js" />
+    <Content Include="Scripts\jquery.magnific-popup.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jstarbox.js" />
+    <Content Include="Scripts\modernizr.custom.72111.js" />
+    <Content Include="Scripts\simpleCart.min.js" />
+    <Content Include="Scripts\uisearch.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -210,9 +215,14 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\Oxygen-Bold.ttf" />
+    <Content Include="fonts\Oxygen-Regular.ttf" />
+    <Content Include="fonts\Ubuntu-Bold.ttf" />
+    <Content Include="fonts\Ubuntu-Regular.ttf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -227,7 +237,6 @@
     <Content Include="Views\_ViewStart.vbhtml" />
     <Content Include="Views\Shared\_Layout.vbhtml" />
     <Content Include="Views\Home\Index.vbhtml" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
