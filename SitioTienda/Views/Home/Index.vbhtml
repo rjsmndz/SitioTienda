@@ -3,6 +3,33 @@
 End Code
 
 <div class="container">
+    <!--banner-->
+    <div class="banner">
+        <div class="container">
+            <section class="rw-wrapper">
+                <h1 class="rw-sentence">
+                    <span>Moda &amp; Belleza</span>
+                    <div class="rw-words rw-words-1">
+                        <span>Diseños Únicos</span>
+                        <span>Creamos Estilo</span>
+                        <span>A tu Gusto</span>
+                        @*<span>Nemo enim ipsam</span>
+                            <span>Temporibus autem</span>
+                            <span>intelligent systems</span>*@
+                    </div>
+                    <div class="rw-words rw-words-2">
+                        <span>Nuestra Ropa...</span>
+                        <span>... Tu Estilo</span>
+                        @*<span>Sed ut perspiciatis unde</span>
+                            <span>There are many variation</span>
+                            <span>The generated Lorem Ipsum</span>
+                            <span>Excepteur sint occaecat</span>*@
+                    </div>
+                </h1>
+            </section>
+        </div>
+    </div>
+
     <div class="content-top">
         <div class="col-md-6 col-md">
             <div class="col-1">

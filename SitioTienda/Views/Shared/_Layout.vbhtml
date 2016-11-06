@@ -106,7 +106,7 @@
                                                 <div class="h_nav">
                                                     <h4>Casual</h4>
                                                     <ul>
-                                                        <li><a href="product.html">Blusas</a></li>
+                                                        <li><a href="@Url.Action("Productos", "Home")">Blusas</a></li>
                                                         <li><a href="product.html">Pantalones</a></li>
                                                         <li><a href="product.html">Jackets y Abrigos</a></li>
                                                         <li><a href="product.html">Accesorios</a></li>
@@ -286,32 +286,7 @@
             </div>
         </div>
     </div>
-    <!--banner-->
-    <div class="banner">
-        <div class="container">
-            <section class="rw-wrapper">
-                <h1 class="rw-sentence">
-                    <span>Moda &amp; Belleza</span>
-                    <div class="rw-words rw-words-1">
-                        <span>Diseños Únicos</span>
-                        <span>Creamos Estilo</span>
-                        <span>A tu Gusto</span>
-                        @*<span>Nemo enim ipsam</span>
-                        <span>Temporibus autem</span>
-                        <span>intelligent systems</span>*@
-                    </div>
-                    <div class="rw-words rw-words-2">
-                        <span>Nuestra Ropa...</span>
-                        <span>... Tu Estilo</span>
-                        @*<span>Sed ut perspiciatis unde</span>
-                        <span>There are many variation</span>
-                        <span>The generated Lorem Ipsum</span>
-                        <span>Excepteur sint occaecat</span>*@
-                    </div>
-                </h1>
-            </section>
-        </div>
-    </div>
+
     <!--content-->
     <div class="content">
         @RenderBody()
@@ -328,7 +303,7 @@
 
                 <div class="col-md-3 footer-middle-in">
                     <h6>Información</h6>
-                    <ul class=" in">
+                    <ul class="in">
                         <li><a href="404.html">Nosotros</a></li>
                         <li><a href="contact.html">Contacto</a></li>
                         <li><a href="#">Devoluciones</a></li>
