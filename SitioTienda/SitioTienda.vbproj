@@ -240,6 +240,10 @@
     <Content Include="Views\Home\Index.vbhtml" />
     <Content Include="Views\Home\Productos.vbhtml" />
     <Content Include="Views\Home\Categorias.vbhtml" />
+    <Content Include="Views\Home\Descuentos.vbhtml" />
+    <Content Include="Views\Home\Tipos.vbhtml" />
+    <Content Include="Views\Shared\_LayoutDetalle.vbhtml" />
+    <Content Include="Views\Home\ProductoDetalle.vbhtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -40,7 +40,7 @@
 		});
     </script>
     <!---//End-rate---->
-
+    <link href="~/Content/form.css" rel="stylesheet" />
 </head>
 <body>
     <!--header-->
@@ -48,7 +48,7 @@
         <div class="container">
             <div class="head">
                 <div class=" logo">
-                    <a href="index.html"><img src="~/images/logo.png" alt=""></a>
+                    <a href="@Url.Action("Index", "Home")"><img src="~/images/logo.png" alt=""></a>
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
                             <ul class="nav navbar-nav nav_1">
-                                <li><a class="color" href="index.html">Inicio</a></li>
+                                <li><a class="color" href="@Url.Action("Index", "Home")">Inicio</a></li>
 
                                 <li class="dropdown mega-dropdown active">
                                     <a class="color1" href="#" class="dropdown-toggle" data-toggle="dropdown">Mujer<span class="caret"></span></a>

@@ -15,5 +15,17 @@ Namespace Controllers
         Function Categorias() As PartialViewResult
             Return PartialView()
         End Function
+
+        Function Descuentos() As PartialViewResult
+            Return PartialView()
+        End Function
+
+        Function Tipos() As PartialViewResult
+            Return PartialView()
+        End Function
+
+        Function ProductoDetalle() As ActionResult
+            Return View()
+        End Function
     End Class
 End Namespace

@@ -41,14 +41,14 @@ End Code
             </div>
             <div class="col-2">
                 <span>Mejores Ofertas</span>
-                <h2><a href="single.html">Cómoda &amp; Moderna</a></h2>
+                <h2><a href="@Url.Action("ProductoDetalle", "Home")">Cómoda &amp; Moderna</a></h2>
                 <p>Ropa cómoda y moderna para cada día</p>
                 <a href="single.html" class="buy-now">Comprar Ahora</a>
             </div>
         </div>
         <div class="col-md-6 col-md1">
             <div class="col-3">
-                <a href="single.html">
+                <a href="@Url.Action("ProductoDetalle", "Home")">
                     <img src="~/images/pi1.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
                         <p>Más Buscado</p>
@@ -58,7 +58,7 @@ End Code
                 </a>
             </div>
             <div class="col-3">
-                <a href="single.html">
+                <a href="@Url.Action("ProductoDetalle", "Home")">
                     <img src="~/images/pi2.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
                         <p>Lo Más Nuevo</p>
@@ -68,7 +68,7 @@ End Code
                 </a>
             </div>
             <div class="col-3">
-                <a href="single.html">
+                <a href="@Url.Action("ProductoDetalle", "Home")">
                     <img src="~/images/pi3.jpg" class="img-responsive" alt="">
                     <div class="col-pic">
                         <p>Lo Más Vendido</p>
@@ -91,14 +91,14 @@ End Code
                         <img src="~/images/pc.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Mujer</span>
-                                <h6><a href="single.html">Blusa Formal</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Blusa Formal</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -123,14 +123,14 @@ End Code
                         <img src="~/images/pc1.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc1.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Mujer</span>
-                                <h6><a href="single.html">Camiseta</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camiseta</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -155,14 +155,14 @@ End Code
                         <img src="~/images/pc2.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc2.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Hombre</span>
-                                <h6><a href="single.html">Camisa Cuadros</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -187,14 +187,14 @@ End Code
                         <img src="~/images/pc3.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc3.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Mujer</span>
-                                <h6><a href="single.html">Camisa Cuadros</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -222,14 +222,14 @@ End Code
                         <img src="~/images/pc4.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Hombre</span>
-                                <h6><a href="single.html">Camiseta</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camiseta</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -254,14 +254,14 @@ End Code
                         <img src="~/images/pc5.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc5.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Hombre</span>
-                                <h6><a href="single.html">Camisa Cuadros</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -286,14 +286,14 @@ End Code
                         <img src="~/images/pc6.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Mujer</span>
-                                <h6><a href="single.html">Camisa Cuadros</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camisa Cuadros</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>
@@ -318,14 +318,14 @@ End Code
                         <img src="~/images/pc7.jpg" class="img-responsive" alt="">
                         <div class="zoom-icon ">
                             <a class="picture" href="~/images/pc7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox"><i class="glyphicon glyphicon-search icon "></i></a>
-                            <a href="single.html"><i class="glyphicon glyphicon-menu-right icon"></i></a>
+                            <a href="@Url.Action("ProductoDetalle", "Home")"><i class="glyphicon glyphicon-menu-right icon"></i></a>
                         </div>
                     </div>
                     <div class="mid-1">
                         <div class="women">
                             <div class="women-top">
                                 <span>Hombre</span>
-                                <h6><a href="single.html">Camisa</a></h6>
+                                <h6><a href="@Url.Action("ProductoDetalle", "Home")">Camisa</a></h6>
                             </div>
                             <div class="img item_add">
                                 <a href="#"><img src="~/images/ca.png" alt=""></a>

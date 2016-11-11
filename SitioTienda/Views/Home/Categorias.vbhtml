@@ -1,45 +1,35 @@
 ﻿<div class="rsidebar span_1_of_left">
-    <h4 class="cate">Categories</h4>
+    <h4 class="cate">Categorias</h4>
     <ul class="menu-drop">
         <li class="item1">
-            <a href="#">Men </a>
+            <a href="#">Hombre </a>
             <ul class="cute">
-                <li class="subitem1"><a href="product.html">Cute Kittens </a></li>
-                <li class="subitem2"><a href="product.html">Strange Stuff </a></li>
-                <li class="subitem3"><a href="product.html">Automatic Fails </a></li>
+                <li class="subitem1"><a href="product.html">Camisas </a></li>
+                <li class="subitem2"><a href="product.html">Jeans </a></li>
+                <li class="subitem3"><a href="product.html">Tshirts </a></li>
             </ul>
         </li>
         <li class="item2">
-            <a href="#">Women </a>
+            <a href="#">Mujer </a>
             <ul class="cute">
-                <li class="subitem1"><a href="product.html">Cute Kittens </a></li>
-                <li class="subitem2"><a href="product.html">Strange Stuff </a></li>
-                <li class="subitem3"><a href="product.html">Automatic Fails </a></li>
+                <li class="subitem1"><a href="product.html">Bolsos </a></li>
+                <li class="subitem2"><a href="product.html">Jeans </a></li>
+                <li class="subitem3"><a href="product.html">Accesorios </a></li>
             </ul>
         </li>
         <li class="item3">
-            <a href="#">Kids</a>
+            <a href="#">Niños</a>
             <ul class="cute">
-                <li class="subitem1"><a href="product.html">Cute Kittens </a></li>
-                <li class="subitem2"><a href="product.html">Strange Stuff </a></li>
-                <li class="subitem3"><a href="product.html">Automatic Fails</a></li>
+                <li class="subitem1"><a href="product.html">Tshirts </a></li>
+                <li class="subitem2"><a href="product.html">Gorras y Sombreros </a></li>
+                <li class="subitem3"><a href="product.html">Pantalones</a></li>
             </ul>
         </li>
         <li class="item4">
-            <a href="#">Accessories</a>
+            <a href="#">Accessorios</a>
             <ul class="cute">
-                <li class="subitem1"><a href="product.html">Cute Kittens </a></li>
-                <li class="subitem2"><a href="product.html">Strange Stuff </a></li>
-                <li class="subitem3"><a href="product.html">Automatic Fails</a></li>
-            </ul>
-        </li>
-
-        <li class="item4">
-            <a href="#">Shoes</a>
-            <ul class="cute">
-                <li class="subitem1"><a href="product.html">Cute Kittens </a></li>
-                <li class="subitem2"><a href="product.html">Strange Stuff </a></li>
-                <li class="subitem3"><a href="product.html">Automatic Fails </a></li>
+                <li class="subitem1"><a href="product.html">Bufandas </a></li>
+                <li class="subitem2"><a href="product.html">Pañuelos </a></li>
             </ul>
         </li>
     </ul>
